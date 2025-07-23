@@ -1,7 +1,6 @@
 # 💼 Employee Salary Prediction using Machine Learning
 
-Predict whether an employee earns more than £50,000 per year using machine learning models based on demographic and work-related attributes. This is a full-stack **ML + Streamlit** application built as part of my final-year B.Tech internship project.
-
+This project is a Machine Learning-powered Streamlit web application that predicts whether an employee earns more than £50,000 annually using classification models. It leverages demographic and work-related attributes for training and includes interactive visualizations.
 ---
 
 ## 🚀 Live Demo
